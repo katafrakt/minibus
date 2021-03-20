@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/minibus
+minibus.so
+minibus.dylib
+minibus.dll
+minibus.a
+minibus.lib
+minibus-test-*
+*.exe
+*.o
+*.obj
+*.lst

@@ -1,0 +1,5 @@
+name "minibus"
+description "Minimal Event Bus"
+authors "Paweł Świątkowski"
+copyright "Copyright © 2021, Paweł Świątkowski"
+license "MIT"
