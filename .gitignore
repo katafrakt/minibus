@@ -9,6 +9,7 @@ minibus.dll
 minibus.a
 minibus.lib
 minibus-test-*
+libminibus*
 *.exe
 *.o
 *.obj
